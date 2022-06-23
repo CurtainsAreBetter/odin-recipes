@@ -6,20 +6,15 @@
 .background {
     background-color: #eee2d5;
 }
+.sauce {
+    background-color: #66332b;
+    color: #ffffff;
+}
 
 .backout {
     background-color: #d6cbbf;
 }
 
-/*
- * Image
- */
-img.center {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    height: auto;
-}
 
 /*
  * Typography-ish
