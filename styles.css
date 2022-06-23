@@ -1,0 +1,29 @@
+
+
+/*
+ * Backgrounds
+ */
+.background {
+    background-color: #eee2d5;
+}
+
+.backout {
+    background-color: #d6cbbf;
+}
+
+/*
+ * Image
+ */
+img.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+/*
+ * Typography-ish
+ */
+.centered {
+    text-align: center;
+}
